@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mdxeditor/editor": "^0.12.0",
+    "@mdxeditor/editor": "file:../../editor/mdxeditor-editor-0.0.0-development.tgz",
     "@types/node": "20.5.0",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
