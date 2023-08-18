@@ -9,13 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mdxeditor/editor": "file:../../editor/mdxeditor-editor-0.0.0-development.tgz",
+    "@lexical/selection": "^0.11.3",
+    "@mdxeditor/editor": "^0.14.0",
     "@types/node": "20.5.0",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
+    "emoji-picker-react": "^4.4.11",
     "eslint": "8.47.0",
     "eslint-config-next": "13.4.16",
+    "lexical": "^0.11.3",
     "next": "13.4.16",
     "postcss": "8.4.28",
     "react": "18.2.0",
