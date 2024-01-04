@@ -1,3 +1,4 @@
+'use client';
 // You can use this code in a separate component that's imported in your pages.
 import type { CodeBlockEditorDescriptor } from '@mdxeditor/editor';
 import '@mdxeditor/editor/style.css';
